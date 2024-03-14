@@ -2,7 +2,7 @@
 title: "Jasmine Ho Qiu"
 image: "images/Jasmine_Senior_Portrait.png"
 about:
-  template: solana
+  template: trestles
   links: 
     - icon: envelope
       href: mailto:jasmineqiu0@gmail.com
