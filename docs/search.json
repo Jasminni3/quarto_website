@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jasmine Ho Qiu",
     "section": "",
-    "text": "Hi my name is Jasmine"
+    "text": "An aspiring business student with a focus on entry-level business roles and data analysis. Dedicated to applying academic knowledge and analytical skills to contribute effectively in dynamic organizational environments. Committed to leveraging data- driven insights to inform strategic decision-making and drive innovation."
   },
   {
     "objectID": "resume/rstudioresume.html",
@@ -81,7 +81,7 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"resume/rstudioresume.pdf\"&gt;Download PDF&lt;/a&gt;"
+    "text": "This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"resume/resume.docx.pdf\"&gt;Download PDF&lt;/a&gt;"
   },
   {
     "objectID": "blog/project1/index.html",
@@ -131,5 +131,12 @@
     "title": "This is Project 2",
     "section": "",
     "text": "I analyzed the data"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jasmine Ho Qiu",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA\nB.S in Business Economics | September 2020 - June 2024"
   }
 ]
