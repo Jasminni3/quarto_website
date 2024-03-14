@@ -1,0 +1,13 @@
+---
+title: "Jasmine Ho Qiu"
+image: "images/Jasmine_Senior_Portrait.png"
+about:
+  template: jolla
+  links: 
+    - icon: envelope
+      href: mailto:jasmineqiu0@gmail.com
+    - icon: linkedin
+      href: https://www.linkedin.com/in/jasmineqiu/
+---
+
+Hi my name is Jasmine

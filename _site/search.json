@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jasmine Ho Qiu",
+    "section": "",
+    "text": "Hi my name is Jasmine"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"resume/rstudioresume.pdf\"&gt;Download PDF&lt;/a&gt;"
+  },
+  {
+    "objectID": "resume/rstudioresume.html",
+    "href": "resume/rstudioresume.html",
+    "title": "Jasmine Ho Qiu’s resume",
+    "section": "",
+    "text": "jasmineqiu0@gmail.com\n github.com/yulijia\n +1 510 598 7503\nFor more information, please contact me via email.\n\n\n\n\n\nExperienced in statistical analysis, statistical learning models, and optimization methods.\nFull experience with next generation sequencing data analysis.\nHighly skilled in R, Bash, Perl, Python, LaTeX\n\n\n\n\nThis resume was made with the R package pagedown.\nLast updated on 2024-03-13."
+  },
+  {
+    "objectID": "resume/rstudioresume.html#contact",
+    "href": "resume/rstudioresume.html#contact",
+    "title": "Jasmine Ho Qiu’s resume",
+    "section": "",
+    "text": "jasmineqiu0@gmail.com\n github.com/yulijia\n +1 510 598 7503\nFor more information, please contact me via email."
+  },
+  {
+    "objectID": "resume/rstudioresume.html#skills",
+    "href": "resume/rstudioresume.html#skills",
+    "title": "Jasmine Ho Qiu’s resume",
+    "section": "",
+    "text": "Experienced in statistical analysis, statistical learning models, and optimization methods.\nFull experience with next generation sequencing data analysis.\nHighly skilled in R, Bash, Perl, Python, LaTeX"
+  },
+  {
+    "objectID": "resume/rstudioresume.html#disclaimer",
+    "href": "resume/rstudioresume.html#disclaimer",
+    "title": "Jasmine Ho Qiu’s resume",
+    "section": "",
+    "text": "This resume was made with the R package pagedown.\nLast updated on 2024-03-13."
+  },
+  {
+    "objectID": "resume/rstudioresume.html#title",
+    "href": "resume/rstudioresume.html#title",
+    "title": "Jasmine Ho Qiu’s resume",
+    "section": "Jasmine Ho Qiu",
+    "text": "Jasmine Ho Qiu\n\nCurrently searching for a PhD student position\nPlease note that this is a real resume, and I’m really looking for a PhD student position at the moment. I made this resume because Yihui asked me if I’d like to test the pagedown package with my resume. If you are interested in my background and skills, please feel free to contact me."
+  },
+  {
+    "objectID": "resume/rstudioresume.html#education",
+    "href": "resume/rstudioresume.html#education",
+    "title": "Jasmine Ho Qiu’s resume",
+    "section": "Education",
+    "text": "Education\n\nUniversity of California: San Diego\nB.S. in Business Economics; Minor in Finance\nBeijing, China\n2010\nThesis: Dyadic wavelet and its application in edge detection\n\n\nUniversity of Chinese Academy of Sciences\nM.S. in Bioinformatics\nBeijing, China\n2014\nThesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals"
+  },
+  {
+    "objectID": "resume/rstudioresume.html#research-experience",
+    "href": "resume/rstudioresume.html#research-experience",
+    "title": "Jasmine Ho Qiu’s resume",
+    "section": "Research Experience",
+    "text": "Research Experience\n\nGraduate Research Assistant\nBeijing Institute of Genomics, Chinese Academy of Sciences\nBeijing, China\n2011 - 2014\n\nPerformed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.\nFound EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.\n\n\n\nBioinformatican\nMy Health Gene Technology Co., Ltd.\nBeijing, China\n2015 - 2016\n\nInvestigated how cancer cells spread to other parts of the body at the single cell level.\n\n\n\nVisiting Scientist\nUniversity of Alabama at Birmingham\nAL, USA\n2016 - 2018\n\nInvestigated the role of mitochondria in development of cancer.\nInvestigated the evolution of genome architecture and its role in important evolutionary events.\nDetected thrombotic thrombocytopenic purpura related mutations in mutiple patients’ blood genome."
+  },
+  {
+    "objectID": "resume/rstudioresume.html#professional-experience",
+    "href": "resume/rstudioresume.html#professional-experience",
+    "title": "Jasmine Ho Qiu’s resume",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nData Scientist, intern\nSupStat Inc.\nBeijing, China\n2014\n\n\nTaught R language to beginners.\nWrote Shiny app demos.\nConverted statistical tutorials from SPSS to R language.\n\n\n\n\nBioinformatician\nMy Health Gene Technology Co., Ltd.\nBeijing, China\n2015 - 2016\n\n\nAnalyzed whole-exome sequencing data.\nWrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.\nStudied tumor metastasis and wrote research reports.\nAlso did case studies to identify the genetic defect causing rare disease."
+  },
+  {
+    "objectID": "resume/rstudioresume.html#teaching-experience",
+    "href": "resume/rstudioresume.html#teaching-experience",
+    "title": "Jasmine Ho Qiu’s resume",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\nIntroduction to R Language for Beginners.\nInstructor of R and Data Mining Training Courses at SupStat Inc.\nBeijing, China\n2014\n\n\nComputational Biology and Bioinformatics.\nTeaching assistant of GBS CB2-201 courses at UAB\nAL, USA\n2016 - 2017"
+  },
+  {
+    "objectID": "resume/rstudioresume.html#selected-publications-and-posters",
+    "href": "resume/rstudioresume.html#selected-publications-and-posters",
+    "title": "Jasmine Ho Qiu’s resume",
+    "section": "Selected Publications and Posters",
+    "text": "Selected Publications and Posters\n\nGenetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.\nPoster for 2013 International Conference of Genomics\nQingdao, China\n2014\nYu L, Chen B, Zhang Z.\n\n\nESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.\nJ Cell Sci. 2016 May 15;129(10):2075-84.\nN/A\n2016\nSheng Z, Yu L, Zhang T, Pei X, Li X, Zhang Z and Du W."
+  }
+]
