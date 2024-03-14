@@ -10,7 +10,9 @@ about:
       href: https://www.linkedin.com/in/jasmineqiu/
 ---
 
-An aspiring business student with a focus on entry-level business roles and data analysis. Dedicated to applying academic knowledge and analytical skills to contribute effectively in dynamic organizational environments. Committed to leveraging data- driven insights to inform strategic decision-making and drive innovation.
+## Hello there!
+
+I am an aspiring business student with a focus on entry-level business roles and data analysis. Dedicated to applying academic knowledge and analytical skills to contribute effectively in dynamic organizational environments. Committed to leveraging data- driven insights to inform strategic decision-making and drive innovation.
 
 ## Education 
 
