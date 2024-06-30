@@ -70,34 +70,6 @@
     "text": "Education\n\nUniversity of California: San Diego\nB.S. in Business Economics; Minor in Finance\nSan Diego, CA\n2024"
   },
   {
-    "objectID": "resume/rstudioresume.html#research-experience",
-    "href": "resume/rstudioresume.html#research-experience",
-    "title": "Jasmine Ho Qiu’s resume",
-    "section": "Research Experience",
-    "text": "Research Experience\n\nGraduate Research Assistant\nBeijing Institute of Genomics, Chinese Academy of Sciences\nBeijing, China\n2011 - 2014\n\nPerformed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.\nFound EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.\n\n\n\nBioinformatican\nMy Health Gene Technology Co., Ltd.\nBeijing, China\n2015 - 2016\n\nInvestigated how cancer cells spread to other parts of the body at the single cell level.\n\n\n\nVisiting Scientist\nUniversity of Alabama at Birmingham\nAL, USA\n2016 - 2018\n\nInvestigated the role of mitochondria in development of cancer.\nInvestigated the evolution of genome architecture and its role in important evolutionary events.\nDetected thrombotic thrombocytopenic purpura related mutations in mutiple patients’ blood genome."
-  },
-  {
-    "objectID": "resume/rstudioresume.html#professional-experience",
-    "href": "resume/rstudioresume.html#professional-experience",
-    "title": "Jasmine Ho Qiu’s resume",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nData Scientist, intern\nSupStat Inc.\nBeijing, China\n2014\n\n\nTaught R language to beginners.\nWrote Shiny app demos.\nConverted statistical tutorials from SPSS to R language.\n\n\n\n\nBioinformatician\nMy Health Gene Technology Co., Ltd.\nBeijing, China\n2015 - 2016\n\n\nAnalyzed whole-exome sequencing data.\nWrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.\nStudied tumor metastasis and wrote research reports.\nAlso did case studies to identify the genetic defect causing rare disease."
-  },
-  {
-    "objectID": "resume/rstudioresume.html#teaching-experience",
-    "href": "resume/rstudioresume.html#teaching-experience",
-    "title": "Jasmine Ho Qiu’s resume",
-    "section": "Teaching Experience",
-    "text": "Teaching Experience\n\nIntroduction to R Language for Beginners.\nInstructor of R and Data Mining Training Courses at SupStat Inc.\nBeijing, China\n2014\n\n\nComputational Biology and Bioinformatics.\nTeaching assistant of GBS CB2-201 courses at UAB\nAL, USA\n2016 - 2017"
-  },
-  {
-    "objectID": "resume/rstudioresume.html#selected-publications-and-posters",
-    "href": "resume/rstudioresume.html#selected-publications-and-posters",
-    "title": "Jasmine Ho Qiu’s resume",
-    "section": "Selected Publications and Posters",
-    "text": "Selected Publications and Posters\n\nGenetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.\nPoster for 2013 International Conference of Genomics\nQingdao, China\n2014\nYu L, Chen B, Zhang Z.\n\n\nESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.\nJ Cell Sci. 2016 May 15;129(10):2075-84.\nN/A\n2016\nSheng Z, Yu L, Zhang T, Pei X, Li X, Zhang Z and Du W."
-  },
-  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
