@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 /* Navbar */
 .navbar {
-  background-color: #663399; /* Dark purple background for navbar */
+  background-color: #28143d; /* Dark purple background for navbar */
 }
 
 .navbar-nav > li > a {
@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 
 .navbar-nav > li > a:hover,
 .navbar-nav > li > a:focus {
-  background-color: #6e37a5; /* Lighter purple background for hovered navbar items */
+  background-color: #2c1643; /* Lighter purple background for hovered navbar items */
 }
 
 /* Navbar brand (title) */
@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 
 /* Dropdown menu */
 .navbar-nav .dropdown-menu {
-  background-color: #4b0082; /* Dark purple background for dropdown menu */
+  background-color: #28143d; /* Dark purple background for dropdown menu */
 }
 
 .navbar-nav .dropdown-menu > li > a {
@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 
 .navbar-nav .dropdown-menu > li > a:hover,
 .navbar-nav .dropdown-menu > li > a:focus {
-  background-color: #6a0dad; /* Lighter purple background for hovered dropdown items */
+  background-color: #2c1643; /* Lighter purple background for hovered dropdown items */
 }
 
 /* Tabs */
