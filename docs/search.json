@@ -81,21 +81,21 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"resume/resume.docx.pdf\"&gt;Download PDF&lt;/a&gt;"
+    "text": "This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"resume/updated.resume.docx.pdf\"&gt;Download PDF&lt;/a&gt;"
   },
   {
     "objectID": "blog/project1/index.html",
     "href": "blog/project1/index.html",
     "title": "This is Project 1",
     "section": "",
-    "text": "I cleaned some data\n\n\n\nI analyzed the data\n\nlibrary(tidyverse)\nmtcars |&gt;\n  ggplot(aes(x = wt, y = mpg)) +\n  geom_point()"
+    "text": "In the works!\n\n\n\nI analyzed the data\n\nlibrary(tidyverse)\nmtcars |&gt;\n  ggplot(aes(x = wt, y = mpg)) +\n  geom_point()"
   },
   {
     "objectID": "blog/project1/index.html#section-1-data",
     "href": "blog/project1/index.html#section-1-data",
     "title": "This is Project 1",
     "section": "",
-    "text": "I cleaned some data"
+    "text": "In the works!"
   },
   {
     "objectID": "blog/project1/index.html#section-2-analysis",
@@ -137,7 +137,7 @@
     "href": "index.html#education",
     "title": "Jasmine Ho Qiu",
     "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA\nB.S in Business Economics | September 2020 - June 2024"
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA\nB.S in Business Economics; Minor in Finance | September 2020 - June 2024"
   },
   {
     "objectID": "index.html#hello-there",
