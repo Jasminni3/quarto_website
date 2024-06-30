@@ -1,1 +1,82 @@
 /* css styles */
+body {
+  background-color: #341d5c; /* Light red background */
+  color: white; /* White text color */
+}
+
+/* Ensure other text elements are also set to white */
+h1, h2, h3, h4, h5, h6, p, a {
+  color: white;
+}
+/* Navbar */
+.navbar {
+  background-color: #663399; /* Dark purple background for navbar */
+}
+
+.navbar-nav > li > a {
+  color: white; /* White text color for navbar items */
+}
+
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a:focus {
+  background-color: #6e37a5; /* Lighter purple background for hovered navbar items */
+}
+
+/* Navbar brand (title) */
+.navbar-brand {
+  color: white !important; /* White text color for the title with !important */
+}
+
+/* Dropdown menu */
+.navbar-nav .dropdown-menu {
+  background-color: #4b0082; /* Dark purple background for dropdown menu */
+}
+
+.navbar-nav .dropdown-menu > li > a {
+  color: white; /* White text color for dropdown items */
+}
+
+.navbar-nav .dropdown-menu > li > a:hover,
+.navbar-nav .dropdown-menu > li > a:focus {
+  background-color: #6a0dad; /* Lighter purple background for hovered dropdown items */
+}
+
+/* Tabs */
+.nav-tabs > li > a {
+  color: white; /* White text color */
+  background-color: #333; /* Dark background for tabs */
+}
+
+.nav-tabs > li > a:hover,
+.nav-tabs > li > a:focus {
+  background-color: #555; /* Darker background for hovered/active tabs */
+}
+
+/* Active tab */
+.nav-tabs > li.active > a {
+  background-color: #555; /* Darker background for active tab */
+  color: white; /* White text color for active tab */
+}
+/* Search bar */
+.navbar .form-control {
+  background-color: #555; /* Dark background for search input */
+  color: white; /* White text color for search input */
+  border: 1px solid #666; /* Border color for search input */
+}
+
+.navbar .form-control::placeholder {
+  color: #ccc; /* Light color for placeholder text */
+}
+/* Search icon (assuming it's a FontAwesome icon or similar) */
+.navbar .fa-search {
+  color: white; /* White color for search icon */
+}
+
+/* Hamburger menu icon */
+.navbar-toggler {
+  color: white; /* White border for hamburger button */
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%288255%2C255%2C255%2C1%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
